@@ -1,0 +1,34 @@
+﻿生成启动时间为 2021/3/23 21:26:42。
+     1>项目“D:\博士学习\博一下\核数据获取与处理\VC指导书\多道监控程序VC指导书\示例程序代码\MCA\MCA\MCA.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\MCA.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\MCA.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ControlView.cpp DetailView.cpp MainFrm.cpp MCA.cpp MCADoc.cpp MCAView.cpp TotalView.cpp
+         ControlView.cpp
+     1>ControlView.cpp(91): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         DetailView.cpp
+         MainFrm.cpp
+         MCA.cpp
+         MCADoc.cpp
+         MCAView.cpp
+         TotalView.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\MCA.res" MCA.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\博士学习\博一下\核数据获取与处理\VC指导书\多道监控程序VC指导书\示例程序代码\MCA\Release\MCA.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\博士学习\博一下\核数据获取与处理\VC指导书\多道监控程序VC指导书\示例程序代码\MCA\Release\MCA.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\博士学习\博一下\核数据获取与处理\VC指导书\多道监控程序VC指导书\示例程序代码\MCA\Release\MCA.lib" /MACHINE:X86 /SAFESEH Release\MCA.res
+         Release\ControlView.obj
+         Release\DetailView.obj
+         Release\MainFrm.obj
+         Release\MCA.obj
+         Release\MCADoc.obj
+         Release\MCAView.obj
+         Release\stdafx.obj
+         Release\TotalView.obj
+         正在生成代码
+         已完成代码的生成
+         MCA.vcxproj -> D:\博士学习\博一下\核数据获取与处理\VC指导书\多道监控程序VC指导书\示例程序代码\MCA\Release\MCA.exe
+     1>已完成生成项目“D:\博士学习\博一下\核数据获取与处理\VC指导书\多道监控程序VC指导书\示例程序代码\MCA\MCA\MCA.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.06

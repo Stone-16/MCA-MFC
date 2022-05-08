@@ -1,0 +1,33 @@
+﻿生成启动时间为 2021/3/23 21:25:26。
+     1>项目“D:\博士学习\博一下\核数据获取与处理\VC指导书\多道监控程序VC指导书\示例程序代码\MCA\MCA\MCA.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\MCA.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MCA.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ControlView.cpp DetailView.cpp MainFrm.cpp MCA.cpp MCADoc.cpp MCAView.cpp TotalView.cpp
+         TotalView.cpp
+         MCAView.cpp
+         MCADoc.cpp
+         MCA.cpp
+         MainFrm.cpp
+         DetailView.cpp
+         ControlView.cpp
+     1>d:\博士学习\博一下\核数据获取与处理\vc指导书\多道监控程序vc指导书\示例程序代码\mca\mca\controlview.cpp(91): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MCA.res" MCA.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\博士学习\博一下\核数据获取与处理\VC指导书\多道监控程序VC指导书\示例程序代码\MCA\Debug\MCA.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\博士学习\博一下\核数据获取与处理\VC指导书\多道监控程序VC指导书\示例程序代码\MCA\Debug\MCA.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\博士学习\博一下\核数据获取与处理\VC指导书\多道监控程序VC指导书\示例程序代码\MCA\Debug\MCA.lib" /MACHINE:X86 Debug\MCA.res
+         Debug\ControlView.obj
+         Debug\DetailView.obj
+         Debug\MainFrm.obj
+         Debug\MCA.obj
+         Debug\MCADoc.obj
+         Debug\MCAView.obj
+         Debug\stdafx.obj
+         Debug\TotalView.obj
+         MCA.vcxproj -> D:\博士学习\博一下\核数据获取与处理\VC指导书\多道监控程序VC指导书\示例程序代码\MCA\Debug\MCA.exe
+     1>已完成生成项目“D:\博士学习\博一下\核数据获取与处理\VC指导书\多道监控程序VC指导书\示例程序代码\MCA\MCA\MCA.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.84
